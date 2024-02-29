@@ -47,7 +47,7 @@ function App() {
       <footer className="footer">
         This project was coded by Andile Jili and is{" "}
         <a
-          href="https://github.com/Andile-1/food-recipes"
+          href="https://github.com/Andile-1/food-jilings"
           target="_blank"
           rel="noopener noreferrer"
         >
