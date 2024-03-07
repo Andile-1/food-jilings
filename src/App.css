@@ -4,7 +4,7 @@
 }
 
 .container {
-  background-color: #fffff0;
+  background-color: #ff69b4;
   max-width: 1000px;
   min-height: 100vh;
   margin: 30px auto;
@@ -57,7 +57,7 @@ input:focus {
 
 .card {
   width: 200px;
-  background-color: #ffffff;
+  background-color: #9f2b68;
   margin: 10px;
   border-radius: 5px;
   padding-bottom: 10px;
@@ -95,6 +95,6 @@ a {
   color: #f7f7f7;
   background-color: blueviolet;
 }
-a :hover {
-  color: #161616;
+.btn:hover {
+  background: #f7f7f7;
 }
